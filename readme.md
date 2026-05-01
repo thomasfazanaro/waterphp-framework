@@ -2,7 +2,7 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](license.txt)
 
-WaterPHP é um framework minimalista para desenvolver aplicações web em PHP usando a estrutura MVC, possui código limpo, é muito leve e fácil de usar.
+WaterPHP é um framework minimalista para desenvolver aplicações web em PHP de forma rápida e intuitiva, utilizando a arquitetura MVC. Seu código é limpo como a água, extremamente leve e fácil de usar.
 
 ## Aprenda WaterPHP
 
@@ -10,4 +10,6 @@ Leia a [documentação](https://github.com/waterphp/doc) e veja como usar as cla
 
 ## Nota sobre a versão
 
-O framework encontra-se atualmente na versão 1.5.0.
+Versão 1.5.0 (estável): Indicada para PHP5.
+
+OBS: Para PHP7 você pode baixar a versão 2 (beta) do framework.
