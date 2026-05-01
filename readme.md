@@ -6,7 +6,7 @@ WaterPHP é um framework minimalista para desenvolver aplicações web em PHP de
 
 ## Aprenda WaterPHP
 
-Leia a [documentação](https://github.com/waterphp/doc) e veja como usar as classes, métodos e todos os recursos disponíveis, além de um passo a passo de como instalar a aplicação de exemplo que o framework disponibiliza para você estudar e aprender mais rápido ainda como usar.
+Leia a [documentação](https://github.com/waterphp/doc) para conhecer as classes, métodos e todos os recursos disponíveis. Além disso, siga o passo a passo para instalar a aplicação de exemplo que o framework oferece, facilitando seus estudos e acelerando o aprendizado sobre como utilizá-lo.
 
 ## Nota sobre a versão
 
