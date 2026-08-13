@@ -12,4 +12,4 @@ Leia a [documentação](https://github.com/waterphp/doc) para conhecer as classe
 
 Versão 1.5.0 (estável): Indicada para PHP5.
 
-OBS: Para PHP7 você pode baixar a versão 2 (beta) do framework.
+OBS: ESTE PROJETO FOI DESCONTINUADO. PORTANTO, PARA NOVAS VERSÕES DO PHP (>5) O FRAMEWORK PODE NÃO FUNCIONAR.
